@@ -1,0 +1,22 @@
+S.No,Module_No,Section_No,Img_Status,Question_English,Question_Hindi,Option1_English,Option1_Hindi,Option2_English,Option2_Hindi,Option3_English,Option3_Hindi,Option4_English,Option4_Hindi,Correct_Option,Image Name,Question_Status
+1,33,1,Y,Que,,1,,2,,3,,4,,A,1.jpg,Y
+2,33,1,Y,Que,,1,,2,,3,,4,,A,1.jpg,Y
+3,33,1,Y,Que,,1,,2,,3,,4,,A,1.jpg,Y
+4,33,1,Y,Que,,1,,2,,3,,4,,A,1.jpg,Y
+5,33,1,Y,Que,,1,,2,,3,,4,,A,1.jpg,Y
+6,33,1,Y,Que,,1,,2,,3,,4,,A,1.jpg,Y
+7,33,1,Y,Que,,1,,2,,3,,4,,A,1.jpg,Y
+8,33,2,Y,Que,,1,,2,,3,,4,,A,1.jpg,Y
+9,33,2,Y,Que,,1,,2,,3,,4,,A,1.jpg,Y
+10,33,2,Y,Que,,1,,2,,3,,4,,A,1.jpg,Y
+11,33,2,Y,Que,,1,,2,,3,,4,,A,1.jpg,Y
+12,33,2,Y,Que,,1,,2,,3,,4,,A,1.jpg,Y
+13,33,2,Y,Que,,1,,2,,3,,4,,A,1.jpg,Y
+14,33,2,Y,Que,,1,,2,,3,,4,,A,1.jpg,Y
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,Note,,,,,,,,,,,,,,,
+,1,If Image exists for any file Img_Status='Y' else 'N',,,,,,,,,,,,,,
+,2,Nomenclature for Image Name = ModuleNo_SectionNo_Image Name.jpg,,,,,,,,,,,,,,
+,3,"Question_Status = 'Y' for valid question else ""N""",,,,,,,,,,,,,,
+,4,Remove first row and column before uploading question.,,,,,,,,,,,,,,
